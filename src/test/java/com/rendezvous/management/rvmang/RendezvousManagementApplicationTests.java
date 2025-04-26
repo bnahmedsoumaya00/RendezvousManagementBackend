@@ -1,4 +1,4 @@
-package com.rendezvous.management.rendezvousmanagement;
+package com.rendezvous.management.rvmang;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
